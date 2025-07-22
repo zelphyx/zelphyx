@@ -1,5 +1,5 @@
 ## Hi there 👋
-[[https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31b553w7uilpjkx5gyj67j6w3a5y&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31b553w7uilpjkx5gyj67j6w3a5y&cover_image=false&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)]]
+https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31b553w7uilpjkx5gyj67j6w3a5y&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31b553w7uilpjkx5gyj67j6w3a5y&cover_image=false&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true
 <!--
 **zelphyx/zelphyx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
