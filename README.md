@@ -1,11 +1,5 @@
 ## Hi there 👋
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a>
-<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
-<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
-<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="" height="30" width="40" /></a>
-</p>
+[[https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31b553w7uilpjkx5gyj67j6w3a5y&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31b553w7uilpjkx5gyj67j6w3a5y&cover_image=false&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)]]
 <!--
 **zelphyx/zelphyx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
