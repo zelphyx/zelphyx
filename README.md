@@ -4,7 +4,9 @@
 <h3 align="center">A Junior Programmer</h3>
 
 <div align="center">
-  <img src="https://tenor.com/view/tower-of-god-tog-webtoon-baam-falling-gif-17549983" width="900" height="400" >
+  <img src="https://media.tenor.com/N0cCtqxFZ1gAAAAC/tower-of-god-tog.gif" width="900" height="400" />
+</div>
+
   
 ### 🧠 GitHub Stats & Activity
 
