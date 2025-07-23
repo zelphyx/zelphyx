@@ -1,26 +1,22 @@
 <div align="center">
 
-## Hi there, I'm Ilhami 👋
+<h1 align="center">Hi there, I'm Ilhami 👋</h1>
 <h3 align="center">A Junior Programmer</h3>
----
 
+<div align="center">
+  <img src="https://tenor.com/view/tower-of-god-tog-webtoon-baam-falling-gif-17549983" width="900" height="400" >
+  
 ### 🧠 GitHub Stats & Activity
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=zelphyx&show_icons=true&theme=tokyonight" style="margin: 10px;" />
+<img src="https://github-readme-stats.vercel.app/api?username=zelphyx&show_icons=true&theme=tokyonight" style="margin: 20px 0;" />
 
-<br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zelphyx&layout=donut&theme=tokyonight" style="margin: 20px 0;" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zelphyx&layout=donut&theme=tokyonight" style="margin: 10px;" />
+<img src="https://github-profile-trophy.vercel.app/?username=zelphyx&theme=tokyonight" style="margin: 20px 0;" />
 
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=zelphyx&theme=tokyonight" style="margin: 10px;" />
-
-<br/>
-
-<img src="http://github-readme-streak-stats.herokuapp.com?user=zelphyx&theme=tokyonight-duo" style="margin: 10px;" />
+<img src="http://github-readme-streak-stats.herokuapp.com?user=zelphyx&theme=tokyonight-duo" style="margin: 20px 0;" />
 
 ---
 
