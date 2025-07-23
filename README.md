@@ -1,4 +1,4 @@
-## Hi there, I'm Ilhami, A Junior Backend Developer👋
+## Hi there, I'm Ilhami👋
 
 ---
 
