@@ -1,7 +1,7 @@
 <div align="center">
 
 ## Hi there, I'm Ilhami 👋
-
+<h3 align="center">A Junior Programmer</h3>
 ---
 
 ### 🧠 GitHub Stats & Activity
