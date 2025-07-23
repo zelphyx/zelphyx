@@ -12,19 +12,19 @@
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=zelphyx&show_icons=true&theme=tokyonight" style="margin: 10px;" />
+<img src="https://github-readme-stats.vercel.app/api?username=zelphyx&show_icons=true&theme=tokyonight" style="margin: 20px;" />
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zelphyx&layout=donut&theme=tokyonight" style="margin: 10px;" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zelphyx&layout=donut&theme=tokyonight" style="margin: 20px;" />
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=zelphyx&theme=tokyonight" style="margin: 10px;" />
+<img src="https://github-profile-trophy.vercel.app/?username=zelphyx&theme=tokyonight" style="margin: 20px;" />
 
 <br/>
 
-<img src="http://github-readme-streak-stats.herokuapp.com?user=zelphyx&theme=tokyonight-duo" style="margin: 10px;" />
+<img src="http://github-readme-streak-stats.herokuapp.com?user=zelphyx&theme=tokyonight-duo" style="margin: 20px;" />
 
 ---
 
