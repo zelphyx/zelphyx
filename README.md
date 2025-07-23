@@ -1,28 +1,34 @@
-## Hi there, I'm Ilhami👋
+<div align="center">
+
+## Hi there, I'm Ilhami 👋
 
 ---
 
 ### 🧠 GitHub Stats & Activity
 
-![zelphyx's GitHub stats](https://github-readme-stats.vercel.app/api?username=zelphyx&show_icons=true&theme=tokyonight)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zelphyx&layout=donut&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-![zelphyx's GitHub Trophies](https://github-profile-trophy.vercel.app/?username=zelphyx&theme=tokyonight)
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=zelphyx&theme=tokyonight-duo)](https://git.io/streak-stats)
+<img src="https://github-readme-stats.vercel.app/api?username=zelphyx&show_icons=true&theme=tokyonight" />
+<br />
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zelphyx&layout=donut&theme=tokyonight" />
+</a>
+<br />
+<img src="https://github-profile-trophy.vercel.app/?username=zelphyx&theme=tokyonight" />
+<br />
+<a href="https://git.io/streak-stats">
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=zelphyx&theme=tokyonight-duo" />
+</a>
 
 ---
 
 ### 🎧 Now Playing on Spotify
 
-![Spotify Now Playing](https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31b553w7uilpjkx5gyj67j6w3a5y&cover_image=false&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)
+<img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31b553w7uilpjkx5gyj67j6w3a5y&cover_image=false&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true" />
 
 ---
 
 ### 🧰 Tech & Tools I've Used
 
-<p align="left">
+<p align="center">
   <!-- IDEs -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webstorm/webstorm-original.svg" alt="webstorm" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phpstorm/phpstorm-original.svg" alt="phpstorm" width="45" height="45"/>
@@ -43,4 +49,6 @@
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=zelphyx&color=blue)
+<img src="https://komarev.com/ghpvc/?username=zelphyx&color=blue" />
+
+</div>
