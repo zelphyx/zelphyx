@@ -4,8 +4,9 @@
 <h3 align="center">A Junior Programmer</h3>
 
 <div align="center">
-  <img src="https://media.tenor.com/N0cCtqxFZ1gAAAAC/tower-of-god-tog.gif" width="900" height="400" />
+  <img src="https://raw.githubusercontent.com/zelphyx/zelphyx/main/tower-of-god-tog.gif" width="900" height="400" />
 </div>
+
 
   
 ### 🧠 GitHub Stats & Activity
