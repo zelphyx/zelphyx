@@ -4,6 +4,7 @@
 
 ![zelphyx's GitHub stats](https://github-readme-stats.vercel.app/api?username=zelphyx&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zelphyx&layout=donut&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
 ![Spotify Now Playing](https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31b553w7uilpjkx5gyj67j6w3a5y&cover_image=false&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)
 <h2>💻 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
