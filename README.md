@@ -1,13 +1,13 @@
 <div align="center">
 
-## 👋 Hi there, I'm **Ilhami**
-### 💻 A Junior Programmer
+# 👋 Hi, I'm **Ilhami Rizqy**
+### 💻 Junior Programmer | Web & Mobile Development Enthusiast
 
 <img src="https://raw.githubusercontent.com/zelphyx/zelphyx/main/tower-of-god-tog.gif" width="900" height="400" />
 
 ---
 
-## 🧠 GitHub Stats & Activity
+## 🧠 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=zelphyx&show_icons=true&theme=tokyonight" height="150" />
@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=zelphyx&theme=tokyonight" />
+  <img src="https://github-profile-trophy.vercel.app/?username=zelphyx&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
 
 <p align="center">
@@ -25,16 +25,11 @@
 ---
 
 ## 🎧 Now Playing on Spotify
-
-<p align="center">
-  <a href="https://open.spotify.com/user/31b553w7uilpjkx5gyj67j6w3a5y">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31b553w7uilpjkx5gyj67j6w3a5y&count=5&unique=false" alt="Spotify recently played" />
-  </a>
-</p>
+[![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=31b553w7uilpjkx5gyj67j6w3a5y&count=5&unique=false)](https://open.spotify.com/user/31b553w7uilpjkx5gyj67j6w3a5y)
 
 ---
 
-## 🧰 Tech & Tools I've Used
+## 🧰 Tech Stack
 
 <p align="center">
   <!-- IDEs -->
@@ -69,17 +64,19 @@
 
 ---
 
+## 📬 Connect with Me
+
 <p align="center">
   <a href="https://www.linkedin.com/in/ilhamirizqy/">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge" height="25" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="http://instagram.com/rzq_19_/">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&color=E4405F&logoColor=white&style=for-the-badge" height="25" />
+  <a href="https://instagram.com/rzq_19_/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=zelphyx&color=blue" />
+  <img src="https://komarev.com/ghpvc/?username=zelphyx&color=blue" alt="Profile views" />
 </p>
 
 </div>
