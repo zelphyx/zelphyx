@@ -76,6 +76,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" alt="ruby" width="45" height="45" style="margin:10px"/>
 </p>
 
+
+---
+
+<br/>
+
 <div align="center">
   <a href="https://www.linkedin.com/in/ilhamirizqy/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
@@ -84,10 +89,13 @@
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
   </a>
 </div>
+
 ---
 
 <br/>
 
 <img src="https://komarev.com/ghpvc/?username=zelphyx&color=blue" />
+
+
 
 </div>
