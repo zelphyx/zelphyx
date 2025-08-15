@@ -90,10 +90,6 @@
   </a>
 </div>
 
----
-
-<br/>
-
 <img src="https://komarev.com/ghpvc/?username=zelphyx&color=blue" />
 
 
