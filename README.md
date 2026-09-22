@@ -140,8 +140,9 @@
 ### 🎧 // Audio Frequency & Inspiration
 
 <div align="center">
+  <!-- Spotify Recently Played Interactive Card -->
   <a href="https://open.spotify.com/user/31b553w7uilpjkx5gyj67j6w3a5y" target="_blank">
-    <img src="https://img.shields.io/badge/Spotify-Vibing_with_Lo--Fi_%26_Anime_OSTs-1a1b26?style=for-the-badge&logo=spotify&logoColor=1db954" alt="Spotify Vibes" />
+    <img src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=31b553w7uilpjkx5gyj67j6w3a5y&theme=tokyonight&width=790&radius=24" alt="Spotify recently played" />
   </a>
 
   <br><br>
