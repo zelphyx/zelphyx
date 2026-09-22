@@ -1,6 +1,8 @@
 <div align="center">
-  <!-- Header Capsule Wave -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b26,50:7aa2f7,100:bb9af7&height=220&section=header&text=Ilhami%20Rizqy%20✦&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Informatics%20%40%20Diponegoro%20University%20•%20Full-Stack%20%26%20Mobile%20Developer&descAlignY=55&descAlign=50" width="100%" alt="Header Banner" />
+  <!-- Hero Header Banner (Tower of God) -->
+  <img src="https://raw.githubusercontent.com/zelphyx/zelphyx/main/tower-of-god-tog.gif" width="100%" alt="Header Banner" style="border-radius: 8px;" />
+
+  <br><br>
 
   <!-- Animated Typing SVG -->
   <a href="https://github.com/zelphyx">
@@ -65,8 +67,8 @@ mindset:
 ---
 
 <div align="center">
-  <!-- Anime / TOG Visual Break -->
-  <img src="https://raw.githubusercontent.com/zelphyx/zelphyx/main/tower-of-god-tog.gif" width="100%" alt="Tower of God" style="border-radius: 10px;" />
+  <!-- Glowing Divider Wave -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b26,50:7aa2f7,100:bb9af7&height=90&section=header" width="100%" alt="Divider Wave" />
 </div>
 
 ---
@@ -124,6 +126,12 @@ mindset:
 ### 🐍 Contribution Matrix
 
 <div align="center">
+  <!-- Live Annual Contribution Activity -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zelphyx&theme=tokyonight" width="100%" alt="Contribution Activity Chart" />
+
+  <br><br>
+
+  <!-- Animated Snake Eating Contributions -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zelphyx/zelphyx/output/github-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zelphyx/zelphyx/output/github-snake.svg" />
@@ -136,10 +144,9 @@ mindset:
 ### 🎧 Live Spotify Vibes & Daily Inspiration
 
 <div align="center">
- https://spotify-recently-played.jeffreyca.workers.dev/svg?user=31b553w7uilpjkx5gyj67j6w3a5y
   <!-- Spotify Recently Played -->
   <a href="https://open.spotify.com/user/31b553w7uilpjkx5gyj67j6w3a5y" target="_blank">
-    <img src=" https://spotify-recently-played.jeffreyca.workers.dev/svg?user=31b553w7uilpjkx5gyj67j6w3a5y&count=4&unique=true" alt="Spotify Recently Played" />
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31b553w7uilpjkx5gyj67j6w3a5y&count=4&unique=true" alt="Spotify Recently Played" />
   </a>
 
   <br><br>
