@@ -136,9 +136,10 @@ mindset:
 ### 🎧 Live Spotify Vibes & Daily Inspiration
 
 <div align="center">
+ https://spotify-recently-played.jeffreyca.workers.dev/svg?user=31b553w7uilpjkx5gyj67j6w3a5y
   <!-- Spotify Recently Played -->
   <a href="https://open.spotify.com/user/31b553w7uilpjkx5gyj67j6w3a5y" target="_blank">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31b553w7uilpjkx5gyj67j6w3a5y&count=4&unique=true" alt="Spotify Recently Played" />
+    <img src=" https://spotify-recently-played.jeffreyca.workers.dev/svg?user=31b553w7uilpjkx5gyj67j6w3a5y&count=4&unique=true" alt="Spotify Recently Played" />
   </a>
 
   <br><br>
