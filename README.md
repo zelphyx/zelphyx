@@ -1,132 +1,128 @@
 <div align="center">
-  <!-- Hero Header Banner (Tower of God) -->
-  <img src="https://raw.githubusercontent.com/zelphyx/zelphyx/main/tower-of-god-tog.gif" width="100%" alt="Header Banner" style="border-radius: 8px;" />
+  <!-- Hero Banner: Tower of God -->
+  <img src="https://raw.githubusercontent.com/zelphyx/zelphyx/main/tower-of-god-tog.gif" width="100%" alt="Header Banner" style="border-radius: 10px;" />
 
   <br><br>
 
-  <!-- Animated Typing SVG -->
+  <!-- Animated Neon Typing Header -->
   <a href="https://github.com/zelphyx">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&repeat=true&width=550&height=50&lines=Hello+World!+I+am+Ilhami+Rizqy+%F0%9F%91%8B;CS+Student+%40+Diponegoro+University+%F0%9F%8E%93;Building+for+Web%2C+Mobile+%26+AI+%F0%9F%9A%80;Turning+ideas+into+clean+code+%E2%9A%A1" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=1000&color=70A5FD&center=true&vCenter=true&repeat=true&width=550&height=50&lines=%E2%9E%A4+Hey%2C+I'm+Ilhami+Rizqy+%E2%9C%A8;%E2%9E%A4+Computer+Science+%40+Diponegoro+University+%F0%9F%8E%93;%E2%9E%A4+Full-Stack+%26+Mobile+App+Engineer+%F0%9F%9A%80;%E2%9E%A4+AI+%26+Cloud+Architecture+Explorer+%F0%9F%A7%A0" alt="Typing SVG" />
   </a>
 
   <br>
 
-  <!-- Connect & Social Badges -->
+  <!-- Curated Tokyo Night Badges -->
   <p align="center">
     <a href="https://linkedin.com/in/ilhamirizqy" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+      <img src="https://img.shields.io/badge/LinkedIn-1a1b26?style=for-the-badge&logo=linkedin&logoColor=7aa2f7" alt="LinkedIn" />
     </a>
     <a href="https://instagram.com/rzq_19_" target="_blank">
-      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+      <img src="https://img.shields.io/badge/Instagram-1a1b26?style=for-the-badge&logo=instagram&logoColor=bb9af7" alt="Instagram" />
     </a>
     <a href="mailto:rizqy.astiko19@gmail.com" target="_blank">
-      <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+      <img src="https://img.shields.io/badge/Email-1a1b26?style=for-the-badge&logo=gmail&logoColor=7dcfff" alt="Email" />
     </a>
     <a href="https://open.spotify.com/user/31b553w7uilpjkx5gyj67j6w3a5y" target="_blank">
-      <img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify" />
+      <img src="https://img.shields.io/badge/Spotify-1a1b26?style=for-the-badge&logo=spotify&logoColor=1db954" alt="Spotify" />
     </a>
-    <img src="https://komarev.com/ghpvc/?username=zelphyx&color=7aa2f7&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=zelphyx&color=7aa2f7&labelColor=1a1b26&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
   </p>
 </div>
 
 ---
 
-### 💫 About Me
+### ⚡ // System Overview
 
-```yaml
-identity:
-  name: Ilhami Rizqy R. Astiko (zelphyx)
-  education: Informatics / Computer Science @ Universitas Diponegoro 🇮🇩
-  location: Central Java, Indonesia 📍
-focus_areas:
-  - Full-Stack Web Development (Laravel, React, Next.js, Vue)
-  - Mobile Application Development (Flutter, Dart, Android)
-  - Backend Architecture, RESTful APIs & Cloud (NestJS, Python, GCP)
-  - AI & Health-Tech Integrations (Deep Learning, LLM APIs)
-mindset:
-  motto: "Building scalable digital solutions powered by curiosity and clean code"
-  fuel: "Coffee ☕ + Lo-Fi Beats 🎧"
-```
-
-- 🎓 **Undergraduate CS Student** passionate about end-to-end software engineering and system design.
-- 🚀 **Builder & Problem Solver**: Built real-world systems ranging from campus crowdfunding (**Ruang**), AI health-tech (**Glucoin**), to production e-commerce platforms.
-- 🧠 **Continuous Explorer**: Actively exploring cutting-edge web ecosystems, microservices, and AI-driven workflows.
-- 💬 **Let's Talk**: Open to collaborations, open-source projects, and exciting engineering opportunities!
-
----
-
-### 🌟 Featured Highlights
-
-| Project | Category | Key Tech | Description |
-| :--- | :--- | :--- | :--- |
-| **[Glucoin](https://github.com/zelphyx)** | 🩺 HealthTech + AI | `NestJS` `Prisma` `Python` `LLM` | Early diabetes detection, blood glucose monitoring & intelligent nutritional insights. |
-| **[Ruang](https://github.com/zelphyx)** | 📱 Mobile Crowdfunding | `Flutter` `Dart` `Figma` | Community fundraising & student campaign platform for Universitas Diponegoro. |
-| **[NeaRUS](https://github.com/zelphyx/NeaRUS)** | 🏢 Booking System | `Laravel` `REST API` `MySQL` | Student boarding house booking platform with automated reservation workflows. |
-| **[Solid Wood](https://github.com/zelphyx)** | 🛒 Full-Stack E-Commerce | `Laravel` `MySQL` `Tailwind` | Production-ready furniture e-commerce platform with catalog and order management. |
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🚀 <code>$ whoami</code></h4>
+      <p>
+        Undergraduate Computer Science student at <b>Universitas Diponegoro</b>. 
+        Passionate about crafting resilient digital products that bridge sleek frontend experiences with high-throughput backend services.
+      </p>
+      <ul>
+        <li>📍 <b>Location:</b> Central Java, Indonesia</li>
+        <li>🎓 <b>Major:</b> Informatics / Computer Science</li>
+        <li>💼 <b>Specialization:</b> Full-Stack Web & Mobile Architecture</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🧠 <code>$ current_focus</code></h4>
+      <p>
+        Diving deep into microservice architectures, mobile performance optimization with Flutter, and building intelligent AI services for healthcare and campus ecosystems.
+      </p>
+      <ul>
+        <li>🔭 <b>Building:</b> Web & Mobile Production Systems</li>
+        <li>💡 <b>Exploring:</b> Deep Learning & LLM API Integrations</li>
+        <li>☕ <b>Fuel:</b> Specialty Coffee + Late Night Lo-Fi</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
-<div align="center">
-  <!-- Glowing Divider Wave -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b26,50:7aa2f7,100:bb9af7&height=90&section=header" width="100%" alt="Divider Wave" />
-</div>
-
----
-
-### 🛠️ Tech Stack & Arsenal
+### 🛠️ // Tech Arsenal
 
 <div align="center">
 
-#### 💻 Programming Languages
+<p><b>Frontend, Mobile & Languages</b></p>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=js,ts,py,php,dart,java,c,cpp,html,css&theme=dark" alt="Programming Languages" />
+  <img src="https://skillicons.dev/icons?i=ts,js,py,php,dart,java,cpp,react,nextjs,vue,svelte,flutter,tailwind,vite&theme=dark" alt="Frontend and Languages" />
 </a>
 
 <br><br>
 
-#### 🌐 Frontend & Mobile Ecosystem
+<p><b>Backend, Databases, Cloud & DevOps</b></p>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,svelte,flutter,tailwind,bootstrap,vite&theme=dark" alt="Frontend and Mobile" />
-</a>
-
-<br><br>
-
-#### ⚙️ Backend, Databases & Cloud
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,laravel,django,flask,mysql,postgres,mongodb,firebase,supabase,gcp&theme=dark" alt="Backend and Databases" />
-</a>
-
-<br><br>
-
-#### 🧰 Tools, DevOps & Design
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,figma,vscode,androidstudio,linux&theme=dark" alt="Tools and Platforms" />
+  <img src="https://skillicons.dev/icons?i=nestjs,nodejs,laravel,django,flask,mysql,postgres,mongodb,firebase,docker,gcp,git,postman,figma&theme=dark" alt="Backend and DevOps" />
 </a>
 
 </div>
 
 ---
 
-### 📊 GitHub Analytics & Activity
+### 🚀 // Featured Deployments
+
+<div align="center">
+  <a href="https://github.com/zelphyx/RUANG-FE" target="_blank">
+    <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=zelphyx&repo=RUANG-FE&theme=tokyonight&bg_color=0d1117&hide_border=true&title_color=7aa2f7&icon_color=7dcfff" alt="RUANG-FE" />
+  </a>
+  <a href="https://github.com/zelphyx/Glucoin-BE" target="_blank">
+    <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=zelphyx&repo=Glucoin-BE&theme=tokyonight&bg_color=0d1117&hide_border=true&title_color=7aa2f7&icon_color=7dcfff" alt="Glucoin-BE" />
+  </a>
+  <br>
+  <a href="https://github.com/zelphyx/Maternin-AI-Service" target="_blank">
+    <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=zelphyx&repo=Maternin-AI-Service&theme=tokyonight&bg_color=0d1117&hide_border=true&title_color=7aa2f7&icon_color=7dcfff" alt="Maternin-AI-Service" />
+  </a>
+  <a href="https://github.com/zelphyx/NeaRUS" target="_blank">
+    <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=zelphyx&repo=NeaRUS&theme=tokyonight&bg_color=0d1117&hide_border=true&title_color=7aa2f7&icon_color=7dcfff" alt="NeaRUS" />
+  </a>
+</div>
+
+---
+
+### 📊 // GitHub Telemetry & Stats
 
 <div align="center">
   <!-- Main Stats & Streak Stats (Side-by-side) -->
-  <img height="185" src="https://github-readme-stats-eight-theta.vercel.app/api?username=zelphyx&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7aa2f7&icon_color=7dcfff&text_color=c0caf5" alt="GitHub Stats" />
-  &nbsp;
-  <img height="185" src="https://streak-stats.demolab.com?user=zelphyx&theme=tokyonight&hide_border=true&background=0d1117&ring=7aa2f7&fire=ff9e64&currStreakLabel=7dcfff" alt="GitHub Streak" />
+  <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=zelphyx&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7aa2f7&icon_color=7dcfff&text_color=c0caf5" alt="GitHub Stats" />
+  &nbsp;&nbsp;
+  <img height="180" src="https://streak-stats.demolab.com?user=zelphyx&theme=tokyonight&hide_border=true&background=0d1117&ring=7aa2f7&fire=ff9e64&currStreakLabel=7dcfff" alt="GitHub Streak" />
 
   <br><br>
 
   <!-- Top Languages Card -->
-  <img height="175" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=zelphyx&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7aa2f7&text_color=c0caf5" alt="Top Languages" />
+  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=zelphyx&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7aa2f7&text_color=c0caf5" alt="Top Languages" />
 </div>
 
 ---
 
-### 🐍 Contribution Matrix
+### 🐍 // Contribution Activity & Matrix
 
 <div align="center">
-  <!-- Live Annual Contribution Activity -->
+  <!-- Live Annual Contribution Activity Card -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zelphyx&theme=tokyonight" width="100%" alt="Contribution Activity Chart" />
 
   <br><br>
@@ -141,12 +137,11 @@ mindset:
 
 ---
 
-### 🎧 Live Spotify Vibes & Daily Inspiration
+### 🎧 // Audio Frequency & Inspiration
 
 <div align="center">
-  <!-- Spotify Recently Played -->
   <a href="https://open.spotify.com/user/31b553w7uilpjkx5gyj67j6w3a5y" target="_blank">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31b553w7uilpjkx5gyj67j6w3a5y&count=4&unique=true" alt="Spotify Recently Played" />
+    <img src="https://img.shields.io/badge/Spotify-Vibing_with_Lo--Fi_%26_Anime_OSTs-1a1b26?style=for-the-badge&logo=spotify&logoColor=1db954" alt="Spotify Vibes" />
   </a>
 
   <br><br>
@@ -158,6 +153,6 @@ mindset:
 <br>
 
 <div align="center">
-  <!-- Footer Capsule Wave -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b26,50:7aa2f7,100:bb9af7&height=120&section=footer" width="100%" alt="Footer Wave" />
+  <!-- Footer Wave -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b26,50:7aa2f7,100:bb9af7&height=110&section=footer" width="100%" alt="Footer Wave" />
 </div>
